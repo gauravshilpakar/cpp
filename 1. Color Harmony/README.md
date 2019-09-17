@@ -1,0 +1,2 @@
+C++ program that will read 3 text files with 12 colors and the corresponding RGB (Red-Green-Blue) hexadecimal and decimal corresponding codes. Suggest
+color harmony to the user based on a user color selection and by means of the RGB Color Wheel.
